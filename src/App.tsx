@@ -1,0 +1,1 @@
+import InsuranceWorkbench from "./InsuranceWorkbench";\n\nexport default function App() {\n  return <InsuranceWorkbench />;\n}\n
