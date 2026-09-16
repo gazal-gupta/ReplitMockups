@@ -1,2 +1,1 @@
-# ReplitMockups
-Standalone insurance AI workbench mockup exported from Replit.
+# ReplitMockups\n\nA standalone React/Vite version of the Insurance AI Workbench mockup.\n\n## Run locally\n\n```bash\nnpm install\nnpm run dev\n```\n\nThen open the local Vite URL. The mockup includes interactive navigation, decision queue selection, recommendation explainability, queue filters, notifications, and live-update controls.\n\n## Build\n\n```bash\nnpm run build\n```\n\nThis repository was exported from a Replit mockup canvas component. Product metrics and insurance entities shown in the UI are illustrative.\n
